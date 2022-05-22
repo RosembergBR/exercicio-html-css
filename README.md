@@ -4,6 +4,10 @@ Repositório de exercício da aula de HTML/CSS3 da DIO, no qual foi recriado a p
 
 Este código aproveita o mesmo proposto pelo desafio, porém estilizando ainda mais a página inicial de autenticação de usuário.
 
+### Observações
+
+O código ainda não apresenta responsividade, logo estarei atualizando. :smiley:
+
 * ### Linguagens utilizadas:
 
   - HTML
